@@ -26,3 +26,22 @@ This document covers the following topics:
 *   **Advanced Networking Concepts**: QoS, VLANs, SDN.
 *   **Distributed Systems Networking**: Architectures, communication paradigms, and challenges.
 *   **Emerging Network Technologies**: 5G, IoT, NFV.
+
+## Generative AI
+
+### [Generative AI Fundamentals](./Generative%20AI/generative-ai-introductory-guide.md)
+
+This document covers the following topics:
+
+*   **Introduction to Generative AI**:
+    - Introduction to Generative AI
+    - Prerequisites and Setup
+    - Frameworks and Libraries
+    - Basic Concepts
+    - Common Architectures
+    - Mnemonic Memory in AI Systems
+    - Implementing a Basic Generative AI Model
+    - Training Methodologies
+    - Evaluation Metrics
+    - Advanced Techniques
+    - Additional Resources
