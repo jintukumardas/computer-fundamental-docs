@@ -29,7 +29,7 @@ This document covers the following topics:
 
 ## Generative AI
 
-### [Generative AI Fundamentals](./Generative%20AI/generative-ai-introductory-guide.md)
+### [Generative AI Fundamentals](./Gen%20AI/generative-ai-introductory-guide.md)
 
 This document covers the following topics:
 
